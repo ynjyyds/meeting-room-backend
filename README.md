@@ -73,6 +73,7 @@ CREATE DATABASE meeting_room CHARACTER SET utf8mb4
 spring:
   datasource:
     password: 你的MySQL密码
+ 
   mail:
     username: 你的QQ邮箱@qq.com
     password: 你的QQ邮箱授权码
